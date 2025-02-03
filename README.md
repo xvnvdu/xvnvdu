@@ -21,13 +21,14 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=vim,postgres,html,css,md,bash&perline=3"></br>
+          <img src="https://skillicons.dev/icons?i=go,postgres,vim,html&perline=4"></br>
+          <img src="https://skillicons.dev/icons?i=css,md,bash&perline=3">
         </p>
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=django,go,redis&perline=3"></br>
-          <img src="https://skillicons.dev/icons?i=fastapi,solidity&perline=3">
+          <img src="https://skillicons.dev/icons?i=redis,django,fastapi,kubernetes&perline=4"></br>
+          <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,rust,solidity&perline=4">
         </p>
       </td>
     </tr>
