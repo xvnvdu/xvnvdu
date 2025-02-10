@@ -38,20 +38,20 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 17 September 2024 - To: 02 February 2025
+From: 17 September 2024 - To: 09 February 2025
 
-Total Time: 268 hrs 18 mins
+Total Time: 276 hrs 28 mins
 
-Python             196 hrs 44 mins █████████████████░░░░░░░░   66.35 %
-Other              28 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-CSS                18 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JSON               18 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Markdown           14 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Go                 3 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Text               3 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-SQL                3 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Docker             2 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Image (svg)        2 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python             198 hrs 43 mins ████████████████░░░░░░░░░   65.18 %
+Other              28 hrs 25 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+CSS                18 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+JSON               18 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Markdown           15 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Go                 9 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Text               3 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+SQL                3 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Docker             2 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Image (svg)        2 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
