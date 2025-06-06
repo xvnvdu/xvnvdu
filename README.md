@@ -38,16 +38,16 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 05 June 2025
+From: 18 September 2024 — To: 06 June 2025
 
-Daily Average Coding: 3 hrs 6 mins
-Total Time: 459 hrs 34 mins
+Daily Average Coding: 3 hrs 5 mins
+Total Time: 459 hrs 45 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Python               214 hrs 49 mins  ██████████████████░░░░░░░░░░░░░░░░░░░░░░ 46.74 %
-Other                69 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.14 %
-Go                   59 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.03 %
+Python               214 hrs 49 mins  ██████████████████░░░░░░░░░░░░░░░░░░░░░░ 46.72 %
+Other                69 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.13 %
+Go                   59 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.02 %
 Lua                  26 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 05.77 %
 JSON                 18 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.07 %
 CSS                  18 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.06 %
@@ -58,8 +58,8 @@ Docker               2 hrs 47 mins    ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-VS Code    391 hrs 40 mins  ███████████░░░ 85.23 %        Linux      268 hrs 55 mins  ████████░░░░░░ 58.52 %
-Neovim     56 hrs 3 mins    █░░░░░░░░░░░░░ 12.20 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 41.48 %
+VS Code    391 hrs 40 mins  ███████████░░░ 85.19 %        Linux      269 hrs 6 mins   ████████░░░░░░ 58.53 %
+Neovim     56 hrs 14 mins   █░░░░░░░░░░░░░ 12.23 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 41.47 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 02.02 %        
 Vim        2 hrs 32 mins    ░░░░░░░░░░░░░░ 00.55 %        
 ```
