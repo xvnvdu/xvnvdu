@@ -38,9 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 09 July 2025
+From: 18 September 2024 — To: 10 July 2025
 
-Daily Average Coding: 2 hrs 56 mins
+Daily Average Coding: 2 hrs 55 mins
 Total Time: 479 hrs 41 mins
 
 
@@ -58,8 +58,8 @@ Typst                4 hrs 29 mins    ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-VS Code    392 hrs 41 mins  ███████████░░░ 81.86 %        Linux      289 hrs 2 mins   ████████░░░░░░ 60.25 %
-Neovim     74 hrs 53 mins   ██░░░░░░░░░░░░ 15.61 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 39.75 %
+VS Code    392 hrs 41 mins  ███████████░░░ 81.86 %        Linux      289 hrs 2 mins   ████████░░░░░░ 60.26 %
+Neovim     74 hrs 53 mins   ██░░░░░░░░░░░░ 15.61 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 39.74 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 01.94 %        
 Vim        2 hrs 32 mins    ░░░░░░░░░░░░░░ 00.53 %        
 Unknown    16 mins          ░░░░░░░░░░░░░░ 00.06 %        
