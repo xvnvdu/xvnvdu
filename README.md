@@ -38,19 +38,19 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 28 August 2025
+From: 18 September 2024 — To: 29 August 2025
 
 Daily Average Coding: 2 hrs 46 mins
-Total Time: 492 hrs 21 mins
+Total Time: 492 hrs 30 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Python               217 hrs 29 mins  █████████████████░░░░░░░░░░░░░░░░░░░░░░░ 44.17 %
-Go                   74 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.09 %
+Python               217 hrs 29 mins  █████████████████░░░░░░░░░░░░░░░░░░░░░░░ 44.16 %
+Go                   74 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.08 %
 Other                70 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 14.25 %
 Lua                  27 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 05.61 %
 CSS                  19 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.90 %
-JSON                 18 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.86 %
+JSON                 18 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.85 %
 Markdown             17 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.61 %
 Text                 13 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.74 %
 Typst                8 hrs 37 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 01.75 %
@@ -58,8 +58,8 @@ SQL                  5 hrs 57 mins    ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-VS Code    392 hrs 43 mins  ███████████░░░ 79.76 %        Linux      301 hrs 42 mins  ████████░░░░░░ 61.28 %
-Neovim     87 hrs 31 mins   ██░░░░░░░░░░░░ 17.78 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 38.72 %
+VS Code    392 hrs 43 mins  ███████████░░░ 79.74 %        Linux      301 hrs 51 mins  ████████░░░░░░ 61.29 %
+Neovim     87 hrs 41 mins   ██░░░░░░░░░░░░ 17.80 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 38.71 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 01.89 %        
 Vim        2 hrs 32 mins    ░░░░░░░░░░░░░░ 00.52 %        
 Unknown    16 mins          ░░░░░░░░░░░░░░ 00.06 %        
