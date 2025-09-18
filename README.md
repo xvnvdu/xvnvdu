@@ -38,17 +38,17 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 17 September 2025
+From: 18 September 2024 — To: 18 September 2025
 
 Daily Average Coding: 2 hrs 48 mins
-Total Time: 523 hrs 50 mins
+Total Time: 524 hrs 6 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Python               220 hrs 30 mins  ████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 42.09 %
-Go                   89 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17.13 %
-Other                70 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.40 %
-Lua                  29 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 05.65 %
+Python               220 hrs 30 mins  ████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 42.07 %
+Go                   89 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17.12 %
+Other                70 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 13.39 %
+Lua                  29 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 05.64 %
 JSON                 20 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.89 %
 CSS                  19 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.66 %
 Markdown             17 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.40 %
@@ -58,8 +58,8 @@ Typst                8 hrs 37 mins    ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-VS Code    393 hrs 28 mins  ██████████░░░░ 75.11 %        Linux      333 hrs 11 mins  ████████░░░░░░ 63.61 %
-Neovim     118 hrs 15 mins  ███░░░░░░░░░░░ 22.58 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 36.39 %
+VS Code    393 hrs 28 mins  ██████████░░░░ 75.08 %        Linux      333 hrs 27 mins  ████████░░░░░░ 63.62 %
+Neovim     118 hrs 31 mins  ███░░░░░░░░░░░ 22.61 %        Windows    190 hrs 39 mins  █████░░░░░░░░░ 36.38 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 01.77 %        
 Vim        2 hrs 32 mins    ░░░░░░░░░░░░░░ 00.48 %        
 Unknown    16 mins          ░░░░░░░░░░░░░░ 00.05 %        
