@@ -16,19 +16,18 @@
             <!-- </td> -->
             <td>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=python,git,docker,linux,arch,vscode,neovim,vim&perline=4">
+                    <img src="https://skillicons.dev/icons?i=go,python,postgres,git,kafka,redis,docker,linux,arch,neovim&perline=5">
                 </p>
             </td>
             <td>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=go,postgres,html&perline=3"></br>
-                    <img src="https://skillicons.dev/icons?i=css,md,bash&perline=3">
+                    <img src="https://skillicons.dev/icons?i=html,css,md,bash&perline=2"></br>
                 </p>
             </td>
             <td>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=redis,lua,rust,solidity&perline=4"></br>
-                    <img src="https://skillicons.dev/icons?i=kafka,kubernetes,rabbitmq,fastapi&perline=4">
+                    <img src="https://skillicons.dev/icons?i=kubernetes,grafana,rabbitmq,htmx,rust&perline=45"></br>
+                    <img src="https://skillicons.dev/icons?i=ts,solidity,lua,raspberrypi,fastapi&perline=5">
                 </p>
             </td>
         </tr>
