@@ -1,7 +1,7 @@
 from generate_stats.lang_generator import get_languages
-from generate_stats.editors_OS_generator import get_editors_and_os
-from generate_stats.info_generator import get_time_range, get_total_time, get_daily_average
-from generate_stats.waka_api import editors, languages, operating_systems, total_time, daily_average
+from generate_stats.stats_generator import get_editors_and_os
+from generate_stats.info_generator import *
+from generate_stats.waka_api import *
 
 
 readme_page = (
@@ -10,7 +10,7 @@ readme_page = (
 	f'{get_daily_average(daily_average)}'
 	f'{get_total_time(total_time)}\n\n'
 	f'{get_languages(languages)}\n\n'
-	f'{get_editors_and_os(editors, operating_systems)}'
+	f'{get_editors_and_os(editors, operating_systems, categories)}'
 	f'```'
 )
 
