@@ -24,8 +24,6 @@ def get_editors_and_os(editors, operating_systems, categories):
         left =  ""
         if i < ed_len:
             left = format(editors[i])
-        if cat == cat_len - 1:
-            left = "⏰ MY DAILY CODING ACTIVITY"
 
         right = ""
         if i < os_len:
@@ -39,10 +37,8 @@ def get_editors_and_os(editors, operating_systems, categories):
                 cat += 1
 
         amount = 8 
-        if i >= ed_len and cat != cat_len:
+        if i >= ed_len:
             amount = 58
-        elif cat == 3:
-            amount = 31
 
         text += f'{left}{" " * amount}{right}\n'
     return text
