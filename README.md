@@ -1,7 +1,6 @@
 <table align="center">
     <thead>
         <tr>
-            <!-- <th>📊 My Coding Stats</th> -->
             <th>🛠 Skills and Tools</th>
             <th>🍼 Have Small Experience</th>
             <th>💻 Want to Learn</th>
@@ -9,11 +8,6 @@
     </thead>
     <tbody>
         <tr>
-            <!-- <td> -->
-            <!--   <p align="center"> -->
-            <!--     <img src="https://wakatime.com/share/@45c37f30-78f2-4b42-863d-611feedbfacb/c2c6600d-b2f3-4ab1-a91c-e97e023d2a30.svg" alt="Coding Stats"> -->
-            <!--   </p> -->
-            <!-- </td> -->
             <td>
                 <p align="center">
                     <img src="https://skillicons.dev/icons?i=go,python,postgres,git,kafka,redis,docker,linux,arch,neovim&perline=5">
@@ -65,22 +59,7 @@ Unknown    16 mins          ░░░░░░░░░░░░░░ 00.03 %
 ```
 
 <!--END_SECTION:waka-->
+<p align="center">
+    <img src="https://wakatime.com/share/@xvnvdu/604561b8-e460-43fd-b3ca-17c702bd3191.svg" alt="Coding Stats">
+</p>
 
-<!--
-<table align="center">
-  <thead>
-    <tr>
-      <th>📊 My Coding Stats</th>
-   </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://wakatime.com/share/@45c37f30-78f2-4b42-863d-611feedbfacb/c2c6600d-b2f3-4ab1-a91c-e97e023d2a30.svg" alt="Coding Stats">
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
--->
