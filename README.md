@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 25 November 2025
+From: 18 September 2024 — To: 26 November 2025
 
 Daily Average Coding: 3 hrs 8 mins
 Total Time: 796 hrs 37 mins
@@ -57,7 +57,7 @@ PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 01.17 %
 Vim        2 hrs 43 mins    ░░░░░░░░░░░░░░ 00.34 %        🛠 CATEGORIES
 Unknown    16 mins          ░░░░░░░░░░░░░░ 00.03 %        Coding         776 hrs 37 mins  █████████████░ 97.49 %
                                                           Writing Docs   10 hrs 48 mins   ░░░░░░░░░░░░░░ 01.36 %
-⏰ MY DAILY CODING ACTIVITY                               Writing Tests  9 hrs 11 mins    ░░░░░░░░░░░░░░ 01.15 %
+                                                          Writing Tests  9 hrs 11 mins    ░░░░░░░░░░░░░░ 01.15 %
 ```
 
 <!--END_SECTION:waka-->
