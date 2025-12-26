@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 25 December 2025
+From: 18 September 2024 — To: 26 December 2025
 
 Daily Average Coding: 3 hrs 5 mins
 Total Time: 805 hrs 37 mins
