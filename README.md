@@ -31,16 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 23 February 2026
+From: 18 September 2024 — To: 24 February 2026
 
 Daily Average Coding: 2 hrs 59 mins
-Total Time: 881 hrs 10 mins
+Total Time: 881 hrs 19 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Go                   294 hrs 36 mins  █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 33.43 %
+Go                   294 hrs 44 mins  █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░ 33.44 %
 Python               279 hrs 36 mins  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 31.73 %
-Other                71 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 08.16 %
+Other                71 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 08.15 %
 Lua                  32 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.65 %
 Markdown             31 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.62 %
 JSON                 25 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.86 %
@@ -51,11 +51,11 @@ HTML                 16 hrs 44 mins   ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-Neovim     472 hrs 54 mins  ███████░░░░░░░ 53.67 %        Linux      690 hrs 31 mins  ██████████░░░░ 78.36 %
-VS Code    395 hrs 54 mins  ██████░░░░░░░░ 44.93 %        Windows    190 hrs 39 mins  ███░░░░░░░░░░░ 21.64 %
+Neovim     473 hrs 2 mins   ███████░░░░░░░ 53.67 %        Linux      690 hrs 40 mins  ██████████░░░░ 78.37 %
+VS Code    395 hrs 54 mins  ██████░░░░░░░░ 44.92 %        Windows    190 hrs 39 mins  ███░░░░░░░░░░░ 21.63 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 01.05 %        
 Vim        2 hrs 43 mins    ░░░░░░░░░░░░░░ 00.31 %        🛠 CATEGORIES
-Unknown    21 mins          ░░░░░░░░░░░░░░ 00.04 %        Coding         858 hrs 10 mins  █████████████░ 97.39 %
+Unknown    21 mins          ░░░░░░░░░░░░░░ 00.04 %        Coding         858 hrs 18 mins  █████████████░ 97.39 %
                                                           Writing Docs   13 hrs 45 mins   ░░░░░░░░░░░░░░ 01.56 %
                                                           Writing Tests  9 hrs 15 mins    ░░░░░░░░░░░░░░ 01.05 %
 ```
