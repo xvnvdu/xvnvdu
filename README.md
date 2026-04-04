@@ -31,33 +31,33 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 03 April 2026
+From: 18 September 2024 — To: 04 April 2026
 
-Daily Average Coding: 3 hrs
-Total Time: 994 hrs 7 mins
+Daily Average Coding: 3 hrs 1 min
+Total Time: 1,001 hrs 35 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Go                   375 hrs 37 mins  ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 37.78 %
-Python               279 hrs 51 mins  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 28.15 %
-Other                72 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 07.29 %
-Markdown             39 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.98 %
-Lua                  32 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.24 %
-Text                 32 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.22 %
-JSON                 25 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.53 %
-CSS                  20 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.02 %
-SQL                  18 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 01.87 %
-HTML                 16 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 01.68 %
+Go                   382 hrs 30 mins  ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 38.19 %
+Python               279 hrs 51 mins  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 27.94 %
+Other                72 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 07.23 %
+Markdown             39 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.97 %
+Lua                  32 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.22 %
+Text                 32 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.20 %
+JSON                 25 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.51 %
+CSS                  20 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.01 %
+SQL                  18 hrs 40 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 01.86 %
+HTML                 16 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 01.67 %
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-Neovim     585 hrs 51 mins  ████████░░░░░░ 58.93 %        Linux      803 hrs 28 mins  ███████████░░░ 80.82 %
-VS Code    395 hrs 54 mins  █████░░░░░░░░░ 39.82 %        Windows    190 hrs 39 mins  ██░░░░░░░░░░░░ 19.18 %
-PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 00.94 %        
+Neovim     593 hrs 19 mins  ████████░░░░░░ 59.24 %        Linux      810 hrs 56 mins  ███████████░░░ 80.97 %
+VS Code    395 hrs 54 mins  █████░░░░░░░░░ 39.53 %        Windows    190 hrs 39 mins  ██░░░░░░░░░░░░ 19.03 %
+PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 00.93 %        
 Vim        2 hrs 43 mins    ░░░░░░░░░░░░░░ 00.27 %        🛠 CATEGORIES
-Unknown    21 mins          ░░░░░░░░░░░░░░ 00.04 %        Coding         957 hrs 47 mins  █████████████░ 96.35 %
-                                                          Writing Docs   21 hrs 20 mins   ░░░░░░░░░░░░░░ 02.15 %
-                                                          Writing Tests  14 hrs 59 mins   ░░░░░░░░░░░░░░ 01.51 %
+Unknown    21 mins          ░░░░░░░░░░░░░░ 00.04 %        Coding         959 hrs 32 mins  █████████████░ 95.80 %
+                                                          Writing Docs   21 hrs 34 mins   ░░░░░░░░░░░░░░ 02.15 %
+                                                          Writing Tests  20 hrs 28 mins   ░░░░░░░░░░░░░░ 02.04 %
 ```
 
 <!--END_SECTION:waka-->
