@@ -31,15 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 17 April 2026
+From: 18 September 2024 — To: 18 April 2026
 
 Daily Average Coding: 2 hrs 57 mins
-Total Time: 1,016 hrs 59 mins
+Total Time: 1,017 hrs 3 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
 Go                   386 hrs 1 min    ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 37.96 %
-Python               280 hrs 51 mins  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 27.62 %
+Python               280 hrs 55 mins  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 27.62 %
 Other                72 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 07.13 %
 Markdown             42 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.22 %
 Lua                  32 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.20 %
@@ -51,11 +51,11 @@ SQL                  18 hrs 41 mins   ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-Neovim     608 hrs 43 mins  ████████░░░░░░ 59.85 %        Linux      826 hrs 20 mins  ███████████░░░ 81.25 %
+Neovim     608 hrs 47 mins  ████████░░░░░░ 59.86 %        Linux      826 hrs 24 mins  ███████████░░░ 81.25 %
 VS Code    395 hrs 54 mins  █████░░░░░░░░░ 38.93 %        Windows    190 hrs 39 mins  ██░░░░░░░░░░░░ 18.75 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 00.91 %        
 Vim        2 hrs 43 mins    ░░░░░░░░░░░░░░ 00.27 %        🛠 CATEGORIES
-Unknown    21 mins          ░░░░░░░░░░░░░░ 00.03 %        Coding         971 hrs 8 mins   █████████████░ 95.49 %
+Unknown    21 mins          ░░░░░░░░░░░░░░ 00.03 %        Coding         971 hrs 13 mins  █████████████░ 95.49 %
                                                           Writing Docs   24 hrs 47 mins   ░░░░░░░░░░░░░░ 02.44 %
                                                           Writing Tests  21 hrs 3 mins    ░░░░░░░░░░░░░░ 02.07 %
 ```
