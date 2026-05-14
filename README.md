@@ -31,9 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 13 May 2026
+From: 18 September 2024 — To: 14 May 2026
 
-Daily Average Coding: 2 hrs 58 mins
+Daily Average Coding: 2 hrs 57 mins
 Total Time: 1,062 hrs 34 mins
 
 
@@ -55,7 +55,7 @@ Neovim     654 hrs 17 mins  ████████░░░░░░ 61.58 %  
 VS Code    395 hrs 54 mins  █████░░░░░░░░░ 37.26 %        Windows    190 hrs 39 mins  ██░░░░░░░░░░░░ 17.94 %
 PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 00.87 %        
 Vim        2 hrs 43 mins    ░░░░░░░░░░░░░░ 00.26 %        🛠 CATEGORIES
-Unknown    21 mins          ░░░░░░░░░░░░░░ 00.03 %        Coding         1,007 hrs 37 mins █████████████░ 94.83 %
+Unknown    21 mins          ░░░░░░░░░░░░░░ 00.03 %        Coding         1,007 hrs 38 mins █████████████░ 94.83 %
                                                           Writing Docs   32 hrs 28 mins   ░░░░░░░░░░░░░░ 03.06 %
                                                           Writing Tests  22 hrs 27 mins   ░░░░░░░░░░░░░░ 02.11 %
 ```
