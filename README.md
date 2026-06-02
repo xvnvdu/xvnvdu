@@ -51,13 +51,13 @@ CSS                  20 hrs 6 mins    ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-Neovim     690 hrs 37 mins  ████████░░░░░░ 62.85 %        Linux      908 hrs 15 mins  ███████████░░░ 82.65 %
-VS Code    395 hrs 54 mins  █████░░░░░░░░░ 36.03 %        Windows    190 hrs 39 mins  ██░░░░░░░░░░░░ 17.35 %
-PyCharm    9 hrs 17 mins    ░░░░░░░░░░░░░░ 00.85 %        
-Vim        2 hrs 43 mins    ░░░░░░░░░░░░░░ 00.25 %        🛠 CATEGORIES
-Unknown    21 mins          ░░░░░░░░░░░░░░ 00.03 %        Coding         1,043 hrs 46 mins █████████████░ 94.98 %
-                                                          Writing Docs   32 hrs 40 mins   ░░░░░░░░░░░░░░ 02.97 %
-                                                          Writing Tests  22 hrs 27 mins   ░░░░░░░░░░░░░░ 02.04 %
+Neovim     690 hrs 37 mins   ████████░░░░░░ 62.85 %        Linux      908 hrs 15 mins   ███████████░░░ 82.65 %
+VS Code    395 hrs 54 mins   █████░░░░░░░░░ 36.03 %        Windows    190 hrs 39 mins   ██░░░░░░░░░░░░ 17.35 %
+PyCharm    9 hrs 17 mins     ░░░░░░░░░░░░░░ 00.85 %        
+Vim        2 hrs 43 mins     ░░░░░░░░░░░░░░ 00.25 %        🛠 CATEGORIES
+Unknown    21 mins           ░░░░░░░░░░░░░░ 00.03 %        Coding         1,043 hrs 46 mins █████████████░ 94.98 %
+                                                          Writing Docs   32 hrs 40 mins    ░░░░░░░░░░░░░░ 02.97 %
+                                                          Writing Tests  22 hrs 27 mins    ░░░░░░░░░░░░░░ 02.04 %
 ```
 
 <!--END_SECTION:waka-->
