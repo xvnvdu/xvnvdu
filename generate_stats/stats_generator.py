@@ -10,7 +10,7 @@ def format(data):
     elif name.startswith("Writing"):
         name = f"{data['name']:<14}"
 
-    time = f"{data['text']:<16}"
+    time = f"{data['text']:<17}"
     bar = f"{format_bar(data['percent'], 14):<14}"
     percent = f"{data['percent']:>05.2f} %"
     return f"{name} {time} {bar} {percent}"
