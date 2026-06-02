@@ -8,7 +8,7 @@ def format(data):
     elif name.startswith("Coding"):
         name = f"{data['name']:<14}"
     elif name.startswith("Writing"):
-        name = f"{data['name']:<14}"
+        name = f" {data['name']:<14}"
 
     time = f"{data['text']:<17}"
     bar = f"{format_bar(data['percent'], 14):<14}"
@@ -17,7 +17,7 @@ def format(data):
 
 
 def get_editors_and_os(editors, operating_systems, categories):
-    text = f'{"🪐 EDITORS":<57}{"⚙️ OPERATING SYSTEMS"}\n'
+    text = f'{"🪐 EDITORS":<58}{"⚙️ OPERATING SYSTEMS"}\n'
     ed_len, os_len, cat_len = len(editors), len(operating_systems), len(categories)
     cat = 0
     for i in range(max(ed_len, os_len + cat_len) + 2):
