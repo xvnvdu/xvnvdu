@@ -10,7 +10,7 @@
         <tr>
             <td>
                 <p align="center">
-                    <img src="https://skillicons.dev/icons?i=go,python,postgres,git,kafka,redis,docker,linux,arch,neovim&perline=5">
+                    <img src="https://skillicons.dev/icons?i=go,python,postgres,git,kafka,redis,docker,linux,graphql,neovim&perline=5">
                 </p>
             </td>
             <td>
@@ -61,6 +61,3 @@ Unknown    21 mins           ░░░░░░░░░░░░░░ 00.03 % 
 ```
 
 <!--END_SECTION:waka-->
-<p align="center">
-    <img src="https://wakatime.com/share/@xvnvdu/604561b8-e460-43fd-b3ca-17c702bd3191.svg" alt="Coding Stats">
-</p>
