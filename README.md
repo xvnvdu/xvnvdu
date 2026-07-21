@@ -31,18 +31,18 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 20 July 2026
+From: 18 September 2024 — To: 21 July 2026
 
 Daily Average Coding: 2 hrs 52 mins
-Total Time: 1,109 hrs 12 mins
+Total Time: 1,109 hrs 45 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Go                   418 hrs 28 mins  ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 37.73 %
-Python               281 hrs 11 mins  ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25.35 %
+Go                   418 hrs 28 mins  ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 37.71 %
+Python               281 hrs 11 mins  ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25.34 %
 Other                72 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 06.55 %
 Markdown             51 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.60 %
-Lua                  34 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.09 %
+Lua                  34 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.08 %
 HTML                 33 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.04 %
 Text                 33 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.98 %
 Typst                28 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.58 %
@@ -51,13 +51,13 @@ CSS                  21 hrs 19 mins   ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                 ⚙️ OPERATING SYSTEMS
-Neovim     700 hrs 55 mins   ████████░░░░░░ 63.19 %        Linux      918 hrs 32 mins   ███████████░░░ 82.81 %
-VS Code    395 hrs 54 mins   ████░░░░░░░░░░ 35.69 %        Windows    190 hrs 39 mins   ██░░░░░░░░░░░░ 17.19 %
+Neovim     701 hrs 28 mins   ████████░░░░░░ 63.21 %        Linux      919 hrs 6 mins    ███████████░░░ 82.82 %
+VS Code    395 hrs 54 mins   ████░░░░░░░░░░ 35.67 %        Windows    190 hrs 39 mins   ██░░░░░░░░░░░░ 17.18 %
 PyCharm    9 hrs 17 mins     ░░░░░░░░░░░░░░ 00.84 %        
 Vim        2 hrs 43 mins     ░░░░░░░░░░░░░░ 00.25 %        🛠 CATEGORIES
-Unknown    21 mins           ░░░░░░░░░░░░░░ 00.03 %        Coding         1,053 hrs 52 mins █████████████░ 95.01 %
+Unknown    21 mins           ░░░░░░░░░░░░░░ 00.03 %        Coding         1,054 hrs 26 mins █████████████░ 95.01 %
                                                            Writing Docs   32 hrs 51 mins    ░░░░░░░░░░░░░░ 02.96 %
-                                                           Writing Tests  22 hrs 27 mins    ░░░░░░░░░░░░░░ 02.03 %
+                                                           Writing Tests  22 hrs 27 mins    ░░░░░░░░░░░░░░ 02.02 %
 ```
 
 <!--END_SECTION:waka-->
