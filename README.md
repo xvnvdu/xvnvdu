@@ -31,10 +31,10 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 04 October 2026
+From: 18 September 2024 — To: 05 October 2026
 
 Daily Average Coding: 2 hrs 47 mins
-Total Time: 1,214 hrs 5 mins
+Total Time: 1,214 hrs 6 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
@@ -51,11 +51,11 @@ CSS                  25 hrs 52 mins   ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                 ⚙️ OPERATING SYSTEMS
-Neovim     805 hrs 47 mins   █████████░░░░░ 66.37 %        Linux      1,023 hrs 26 mins ███████████░░░ 84.30 %
+Neovim     805 hrs 47 mins   █████████░░░░░ 66.37 %        Linux      1,023 hrs 27 mins ███████████░░░ 84.30 %
 VS Code    395 hrs 54 mins   ████░░░░░░░░░░ 32.61 %        Windows    190 hrs 39 mins   ██░░░░░░░░░░░░ 15.70 %
 PyCharm    9 hrs 17 mins     ░░░░░░░░░░░░░░ 00.77 %        
 Vim        2 hrs 43 mins     ░░░░░░░░░░░░░░ 00.22 %        🛠 CATEGORIES
-Unknown    23 mins           ░░░░░░░░░░░░░░ 00.03 %        Coding         1,156 hrs 48 mins █████████████░ 95.28 %
+Unknown    23 mins           ░░░░░░░░░░░░░░ 00.03 %        Coding         1,156 hrs 49 mins █████████████░ 95.28 %
                                                            Writing Docs   34 hrs 49 mins    ░░░░░░░░░░░░░░ 02.87 %
                                                            Writing Tests  22 hrs 27 mins    ░░░░░░░░░░░░░░ 01.85 %
 ```
