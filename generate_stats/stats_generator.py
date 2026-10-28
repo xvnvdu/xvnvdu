@@ -2,13 +2,15 @@ from .percentage_bar import format_bar
 
 
 def format(data):
-    name = f"{data['name']:<10}"
-    if name.startswith("Unknown"):
-        name = f"{'Unknown':<10}"
-    elif name.startswith("Coding"):
-        name = f"{data['name']:<14}"
-    elif name.startswith("Writing"):
-        name = f" {data['name']:<14}"
+    raw_name = data["name"].strip()
+    name = f"{raw_name:<11}"
+
+    if raw_name.startswith("Unknown"):
+        name = f"{'Unknown':<11}"
+    elif raw_name.startswith("Coding"):
+        name = f"{raw_name:<14}"
+    elif raw_name.startswith(("Writing", "AI Coding")):
+        name = f"{raw_name:<14}"
 
     time = f"{data['text']:<17}"
     bar = f"{format_bar(data['percent'], 14):<14}"
@@ -17,11 +19,11 @@ def format(data):
 
 
 def get_editors_and_os(editors, operating_systems, categories):
-    text = f'{"🪐 EDITORS":<58}{"⚙️ OPERATING SYSTEMS"}\n'
+    text = f'{"🪐 EDITORS":<57}{"⚙️ OPERATING SYSTEMS"}\n'
     ed_len, os_len, cat_len = len(editors), len(operating_systems), len(categories)
     cat = 0
     for i in range(max(ed_len, os_len + cat_len) + 2):
-        left =  ""
+        left = ""
         if i < ed_len:
             left = format(editors[i])
 
@@ -36,10 +38,9 @@ def get_editors_and_os(editors, operating_systems, categories):
                 right = format(categories[cat])
                 cat += 1
 
-        amount = 8 
+        amount = 6
         if i >= ed_len:
             amount = 58
 
         text += f'{left}{" " * amount}{right}\n'
     return text
-
