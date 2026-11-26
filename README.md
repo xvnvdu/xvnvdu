@@ -31,19 +31,19 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 18 September 2024 — To: 25 November 2026
+From: 18 September 2024 — To: 26 November 2026
 
 Daily Average Coding: 2 hrs 52 mins
-Total Time: 1,379 hrs 47 mins
+Total Time: 1,380 hrs 5 mins
 
 
 🤖 TOP 10 LANGUAGES I USE
-Go                   493 hrs 53 mins  ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 35.80 %
-Python               308 hrs 3 mins   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 22.33 %
+Go                   493 hrs 53 mins  ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 35.79 %
+Python               308 hrs 3 mins   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 22.32 %
 Other                80 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 05.85 %
 HTML                 75 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 05.47 %
 Text                 60 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.41 %
-Markdown             57 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.16 %
+Markdown             57 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 04.16 %
 CSS                  44 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 03.25 %
 Lua                  34 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.51 %
 SQL                  30 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 02.23 %
@@ -51,12 +51,12 @@ Typst                30 hrs 16 mins   ░░░░░░░░░░░░░░
 
 
 🪐 EDITORS                                                ⚙️ OPERATING SYSTEMS
-Neovim      970 hrs 32 mins   █████████░░░░░ 70.34 %      Linux       1,189 hrs 8 mins  ████████████░░ 86.18 %
-VS Code     395 hrs 54 mins   ████░░░░░░░░░░ 28.69 %      Windows     190 hrs 39 mins   █░░░░░░░░░░░░░ 13.82 %
+Neovim      970 hrs 49 mins   █████████░░░░░ 70.35 %      Linux       1,189 hrs 26 mins ████████████░░ 86.19 %
+VS Code     395 hrs 54 mins   ████░░░░░░░░░░ 28.69 %      Windows     190 hrs 39 mins   █░░░░░░░░░░░░░ 13.81 %
 PyCharm     9 hrs 17 mins     ░░░░░░░░░░░░░░ 00.67 %      
 Vim         2 hrs 43 mins     ░░░░░░░░░░░░░░ 00.20 %      🛠 CATEGORIES
-Claude Code 56 mins           ░░░░░░░░░░░░░░ 00.07 %      Coding         1,317 hrs 3 mins  █████████████░ 95.45 %
-Unknown     23 mins           ░░░░░░░░░░░░░░ 00.03 %      Writing Docs   39 hrs 12 mins    ░░░░░░░░░░░░░░ 02.84 %
+Claude Code 56 mins           ░░░░░░░░░░░░░░ 00.07 %      Coding         1,317 hrs 19 mins █████████████░ 95.45 %
+Unknown     23 mins           ░░░░░░░░░░░░░░ 00.03 %      Writing Docs   39 hrs 13 mins    ░░░░░░░░░░░░░░ 02.84 %
                                                           Writing Tests  22 hrs 27 mins    ░░░░░░░░░░░░░░ 01.63 %
                                                           AI Coding      1 hr 4 mins       ░░░░░░░░░░░░░░ 00.08 %
 ```
